@@ -1,7 +1,7 @@
-<h1 align="center">Santiago Cervan</h1>
-<h3 align="center">I really enjoy constant learning, design and creativity, I am adaptable, I like good communication and teamwork</h3>
+<h1>Santiago Cervan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santicervan&label=Profile%20views&color=0e75b6&style=flat" alt="santicervan" /> </p>
+
+<h4>I really enjoy constant learning, design and creativity, I am adaptable, I like good communication and teamwork.</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
