@@ -8,6 +8,11 @@
 <h3>Full stack developer</h3>
 <h5>I really enjoy constant learning, design and creativity, I am adaptable, I like good communication and teamwork.</h5>
 
+<h5>Some of my hobbies are video games 🎮 swimming 🏊🏼‍♂️ and listening to music 🎧
+
+ I am currently looking for my first IT job, you can contact me by my email 📧:
+santicervan@live.com</h5>
+
 
 <h2 align="left">Languages and Tools<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 <p align="left">
