@@ -10,7 +10,7 @@
 
 <h5>Some of my hobbies are video games 🎮 swimming 🏊🏼‍♂️ and listening to music 🎧
 
- I am currently looking for my first IT job, you can contact me by my email 📧:
+ You can contact me by my email 📧:
 santicervan@live.com</h5>
 
 
