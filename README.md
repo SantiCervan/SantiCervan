@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://i0.wp.com/cinde.es/blog/wp-content/uploads/2017/10/giphy.gif?resize=500%2C281" alt="cover" />
-</div>
-
 <h1>Hi! I´m Santiago Cervan<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'></h1>
 
